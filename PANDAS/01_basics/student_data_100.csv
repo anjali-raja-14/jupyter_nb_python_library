@@ -1,0 +1,101 @@
+ID,Name,Age,Gender,Email,Phone,Department,CGPA
+1,Scott Perez,21,Male,odonnellheather@gmail.com,001-228-181-7899x678,Electrical,7.94
+2,John Preston,25,Male,zsmith@hale.biz,712.827.6441,Mechanical,7.6
+3,Jeremy Davis,18,Female,lindatownsend@yahoo.com,(677)925-6481x576,Mechanical,7.46
+4,Chad Greer,18,Female,michelleboyd@sullivan.com,(566)564-2509x35255,Mechanical,7.8
+5,Mason Brown,20,Male,townsendjanet@gmail.com,459.212.2649x89460,Mechanical,7.24
+6,Gabrielle Herrera,21,Male,richard72@gmail.com,808.931.9045x469,Civil,6.04
+7,Jeffrey Cruz,19,Female,mitchelljonathan@moore.org,454.976.6426x48868,Biotech,9.8
+8,Maria Butler,23,Male,qbraun@kaiser.com,375.281.3702x8459,Computer Science,9.82
+9,Marco Clark,19,Female,nguyenamber@lutz.com,293-905-1257x57087,Electrical,8.23
+10,Nicole Scott,20,Female,john56@edwards-riley.com,295-353-5016x18281,Electrical,7.79
+11,Elizabeth Murillo,23,Male,mitchell39@yahoo.com,264.841.1399,Civil,8.45
+12,Tammy Walker,24,Male,mmacdonald@williams-jones.com,962.577.3265x2087,Mechanical,8.79
+13,Jamie Maxwell,25,Female,marcia57@gibson-hernandez.info,+1-671-744-2099x780,Mechanical,8.5
+14,Jacqueline Moore,20,Male,ndavis@gmail.com,106.984.6375x3723,Computer Science,8.43
+15,Samantha Perez,21,Male,nolanandrew@hotmail.com,001-264-985-7413x9589,Biotech,9.21
+16,Lauren Hill,20,Female,batesterri@gmail.com,406.257.0244,Civil,8.99
+17,Stephen Huber,25,Female,kennethleonard@williams.com,971-489-2377x3600,Biotech,7.22
+18,Angela Moody,21,Female,clarkjohn@montoya.com,(688)278-9808x94798,Electrical,6.22
+19,Wendy Petersen,22,Male,gregorycontreras@fields-russell.org,+1-424-300-9437x49262,Mechanical,6.55
+20,Steven Glover,21,Female,nschmitt@wright.info,+1-441-048-3612x985,Computer Science,9.67
+21,Justin Greene,24,Female,ramosalexander@yahoo.com,+1-708-813-9141x6486,Mechanical,6.27
+22,James Lowe,22,Female,fwoods@yahoo.com,001-240-297-8188x3474,Civil,7.65
+23,Aaron Goodman,24,Female,scott08@estes.com,001-380-520-2024,Civil,7.92
+24,Keith Scott,20,Male,clarkcynthia@yu-martinez.biz,805.323.2754x62052,Electrical,8.81
+25,Tina Sexton,25,Male,donna67@yahoo.com,(637)279-3493,Computer Science,8.18
+26,Joshua Escobar,22,Female,johnsmith@hotmail.com,202-826-4609,Mechanical,9.64
+27,Frank Young,22,Female,nathanhanson@campbell-johnson.com,001-496-788-1993x882,Computer Science,8.92
+28,Whitney Russell,25,Female,morganashley@medina.com,215.945.0623,Mechanical,8.88
+29,Darren Smith,23,Male,aaronochoa@gmail.com,(468)077-7113,Mechanical,9.31
+30,Joe Fuller,22,Male,pagejessica@williamson.net,890-756-4743,Mechanical,7.71
+31,Ryan Wright,18,Female,catherineblack@ford-chavez.com,(195)997-1276x413,Biotech,6.2
+32,Kelly Hernandez,18,Female,qreyes@burns.net,113-167-5469,Biotech,7.01
+33,Larry Martin,22,Male,sheila19@gmail.com,(043)258-1630,Electrical,8.56
+34,Madeline Vasquez,24,Female,lopeztyler@yahoo.com,+1-858-311-7225x2634,Computer Science,8.4
+35,Dr. Stephanie Scott DDS,22,Female,david41@gmail.com,(851)243-0122,Biotech,6.4
+36,Pedro Bush,25,Male,mking@hotmail.com,233.811.2912x4447,Civil,7.07
+37,Morgan Gibbs,25,Male,mirandasean@yahoo.com,775-649-5366,Electrical,6.67
+38,Wesley Hernandez,18,Female,hmorris@gmail.com,587.291.1532,Mechanical,6.09
+39,Stephanie Mccullough,21,Female,imorgan@gmail.com,(364)763-2449,Civil,9.54
+40,Megan Yates,20,Male,harrellkyle@patterson-kelly.com,+1-448-179-3981x6282,Computer Science,6.28
+41,Andrew Richardson MD,25,Male,buchananheather@burke.org,+1-753-930-1710x57351,Biotech,8.39
+42,Alfred Baker,24,Female,mdavies@yahoo.com,754-035-1054x0791,Electrical,8.63
+43,Phillip Vincent,24,Male,afreeman@dalton-molina.com,(618)549-8831,Civil,8.44
+44,Ruth Gilbert,24,Male,courtneybowen@yahoo.com,(091)060-3954x0054,Computer Science,9.81
+45,Derek Harris,19,Female,etucker@gmail.com,+1-992-190-7324x5227,Civil,8.85
+46,Brad Torres,21,Male,briana06@gmail.com,(820)513-7926x28280,Civil,8.1
+47,Steven Ball,24,Male,irodriguez@smith-kramer.info,001-835-908-2944,Mechanical,6.37
+48,Craig Kidd,18,Male,kellypamela@gmail.com,(210)972-1828x1630,Civil,9.75
+49,Shelby Chavez,24,Female,williamkramer@sullivan.info,155.664.6460,Electrical,9.94
+50,Hannah Williamson,24,Male,hjackson@kelly-sparks.com,647-207-6072,Biotech,6.14
+51,Roy Long,18,Male,bensonjudy@james.info,722-257-1029,Mechanical,6.93
+52,David Wright,20,Male,deckerrichard@hotmail.com,(718)608-7223x8224,Mechanical,7.98
+53,Katie Steele,20,Male,jennifer71@yahoo.com,(418)491-0154x004,Mechanical,7.59
+54,Karen Gonzalez,20,Male,conniemcdonald@schneider.info,0616967774,Mechanical,9.36
+55,James Coleman,23,Male,rmcguire@ford-myers.com,001-393-549-7655,Mechanical,9.71
+56,Ashley Sullivan,22,Male,courtney26@paul.com,+1-902-807-0338x467,Mechanical,9.33
+57,Sierra Johnson,22,Male,wagnermaureen@gmail.com,+1-624-175-2551x5254,Civil,8.31
+58,Michael Burke,23,Female,anelson@mccullough.info,+1-343-051-4153x380,Civil,7.83
+59,Lisa Caldwell,19,Female,alexander56@hudson.com,(512)503-5190x479,Electrical,9.04
+60,Lindsey Price,24,Male,samuel57@lopez-white.com,(962)969-4101x054,Biotech,7.48
+61,Mrs. Judy Garrett DVM,19,Male,hannahhayes@gmail.com,901.699.9421x6745,Mechanical,6.79
+62,Daniel Martinez,20,Female,stephenjoseph@patterson-dean.com,001-858-928-0371,Computer Science,9.53
+63,Sean Welch,21,Male,valerie04@leonard.com,370.104.9209x1689,Computer Science,8.09
+64,Darrell Walker,19,Female,halvarado@murphy-logan.com,(220)557-1325,Computer Science,6.41
+65,Michael Oconnell,19,Male,boydbrittany@hotmail.com,(622)983-5564,Electrical,6.05
+66,Jordan Davis,19,Male,norrischristopher@taylor-jones.biz,252-958-9355x40901,Mechanical,8.59
+67,Calvin Clark,18,Female,vanessa37@gmail.com,(833)272-0955,Electrical,9.66
+68,Crystal Marquez,22,Female,torresmark@page.com,782.386.4699,Civil,8.21
+69,David Guerra,23,Female,ewilcox@buck-velazquez.org,016-894-3974x2703,Biotech,6.73
+70,Steven Crosby,22,Male,michael29@gmail.com,525.023.5631x721,Computer Science,8.29
+71,Bryan Jones,18,Female,santiagochristian@holt.com,049.752.8727,Mechanical,8.87
+72,Brent Solis,19,Male,jwest@gmail.com,937-063-2888,Electrical,8.38
+73,Amanda Robertson,19,Male,cody06@carter.net,468-197-4721x78062,Civil,9.96
+74,Benjamin Rivas,18,Male,christinewelch@hotmail.com,179-560-5985x590,Biotech,6.71
+75,William Stafford,24,Male,pperkins@marks.com,+1-023-548-4542x79478,Computer Science,8.76
+76,David Holmes,21,Male,brooke92@diaz.com,+1-434-846-7759x0633,Computer Science,9.85
+77,Courtney Oliver,25,Male,xgonzalez@gmail.com,773.469.5186,Electrical,8.9
+78,Erica Simmons,22,Female,fbranch@davidson-davis.net,754.001.2883x45231,Civil,6.57
+79,Matthew Burns,21,Male,npayne@yahoo.com,5133025940,Biotech,8.22
+80,Steven Lucas,18,Female,xperez@martinez.com,115.049.4884,Biotech,8.13
+81,Mrs. Miranda Thompson,25,Female,derek76@yahoo.com,562.620.8326,Biotech,7.91
+82,Jonathan Campbell,25,Female,mcastaneda@gmail.com,(946)383-1943,Mechanical,8.74
+83,Kelly Mayo,19,Female,jonathonmunoz@yahoo.com,840-117-4006x157,Electrical,7.88
+84,Cindy Salinas,19,Female,cynthiasmith@hotmail.com,(201)682-1237x3397,Electrical,7.35
+85,Laura Mayer,19,Female,hendrickskayla@hotmail.com,199.696.7165,Computer Science,6.69
+86,Stacy Young,22,Male,elizabeth65@lynch.com,+1-815-834-3655x45177,Civil,8.07
+87,Jonathan Mitchell,23,Male,jamesdaniel@gmail.com,(297)246-6783,Biotech,8.73
+88,Kathleen Hall,23,Female,jeffrey82@gmail.com,916-809-0315,Mechanical,9.83
+89,Ian Davenport,21,Female,vmunoz@gmail.com,001-637-358-3222x065,Biotech,8.49
+90,Jason Alvarez,22,Male,kathleen91@yahoo.com,+1-969-421-1476x9612,Biotech,9.63
+91,Stephen Flynn,20,Female,robertwhite@gmail.com,+1-340-455-4856,Electrical,7.22
+92,Melissa Hart,22,Female,sherry41@chaney-nguyen.com,9019474370,Mechanical,9.78
+93,Arthur Stevens,22,Male,warnerpatricia@perez.com,0292691628,Biotech,6.55
+94,Matthew Johnson,24,Male,cruzkayla@brooks.biz,010.095.7408,Civil,8.38
+95,Heather Hawkins,25,Male,ymartinez@williams.org,188.567.6447x93938,Electrical,8.75
+96,Christopher Mahoney,21,Female,kyliesutton@gutierrez-kim.com,001-178-878-9609x41391,Mechanical,9.14
+97,Christopher Williams,24,Female,judith15@hotmail.com,354.905.7143x22966,Mechanical,7.03
+98,Kathryn Mack,21,Female,timothy76@gmail.com,(932)496-9134,Mechanical,7.44
+99,Michael Boyer,20,Male,david50@yahoo.com,001-522-799-4867x166,Mechanical,7.37
+100,Madeline Cruz,24,Male,estout@hotmail.com,+1-052-074-5729x3747,Computer Science,9.47
